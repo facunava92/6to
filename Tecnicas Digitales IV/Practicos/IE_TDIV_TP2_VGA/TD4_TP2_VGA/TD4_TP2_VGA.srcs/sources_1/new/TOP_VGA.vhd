@@ -28,8 +28,7 @@ use ieee.numeric_std.all;
 --use UNISIM.VComponents.all;
 
 entity TOP_VGA is
--- Port ( 
-    );
+-- Port ( );
 end TOP_VGA;
 
 architecture arch of TOP_VGA is
