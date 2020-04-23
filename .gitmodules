@@ -1,3 +1,6 @@
 [submodule "Vision _por_Computador/Practicos"]
 	path = Vision _por_Computador/Practicos
 	url = git@github.com:facunava92/VxC_Grupo6.git
+[submodule "Tecnicas_Digitales_IV/Practicos"]
+	path = Tecnicas_Digitales_IV/Practicos
+	url = git@github.com:facunava92/TD4_2020_Practicos.git
