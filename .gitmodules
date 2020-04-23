@@ -4,3 +4,6 @@
 [submodule "Tecnicas_Digitales_IV/Practicos"]
 	path = Tecnicas_Digitales_IV/Practicos
 	url = git@github.com:facunava92/TD4_2020_Practicos.git
+[submodule "Fundamentos_de_Robotica/Repo_GFPP"]
+	path = Fundamentos_de_Robotica/Repo_GFPP
+	url = https://github.com/gfpp/fundamentos_robotica.git
