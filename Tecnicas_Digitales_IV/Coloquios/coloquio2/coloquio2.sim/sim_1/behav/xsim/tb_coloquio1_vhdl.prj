@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../coloquio2.srcs/sources_1/new/coloquio2.vhd" \
+"../../../../coloquio2.srcs/sim_1/new/tb_coloquio2.vhd" \
+
+# Do not sort compile order
+nosort

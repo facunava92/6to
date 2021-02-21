@@ -4,3 +4,6 @@
 [submodule "Tecnicas_Digitales_IV/Practicos"]
 	path = Tecnicas_Digitales_IV/Practicos
 	url = git@github.com:facunava92/TD4_2020_Practicos.git
+[submodule "Sistemas_de_Comunicaciones_III/Informes_2020"]
+	path = Sistemas_de_Comunicaciones_III/Informes_2020
+	url = git@github.com:matimasdiez/LATEX_Matias.git

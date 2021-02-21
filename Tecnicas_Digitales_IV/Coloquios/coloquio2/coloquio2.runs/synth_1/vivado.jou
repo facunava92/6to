@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:48:12 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Mon Jun 22 16:39:30 2020
+# Process ID: 54918
+# Current directory: /home/fnavarro/vivado/coloquio/coloquio.runs/synth_1
+# Command line: vivado -log coloquio1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source coloquio1.tcl
+# Log file: /home/fnavarro/vivado/coloquio/coloquio.runs/synth_1/coloquio1.vds
+# Journal file: /home/fnavarro/vivado/coloquio/coloquio.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source coloquio1.tcl -notrace
